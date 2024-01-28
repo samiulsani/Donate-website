@@ -168,7 +168,8 @@ main {
   display: flex;
   background-color: bisque;
   padding: 80px;
-  margin: 0px 180px;
+  margin: 0px 180px 80px;
+  justify-content: center;
 }
 .update-section input {
   padding: 12px;
